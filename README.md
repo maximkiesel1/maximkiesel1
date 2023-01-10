@@ -12,7 +12,7 @@ Feel free to check it out!
 
 Here are some additionally informations: 
 
-- 🔭 I’m currently working on a end-to-end ML model to precdict the rent in Munich.
+- 🔭 I’m currently working on a global suicide analyis for a better eduction in the area of mental health
 - 🤝 I’m looking to collaborate with other Data Scientists 
 - 📫 You can find and reach me on [![LinkedIn][2.2]][2].
 
