@@ -15,7 +15,7 @@ Here are some additionally informations:
 - 🔭 I’m currently working on a global suicide analyis for a better eduction in the area of mental health
 - 🤝 I’m looking to collaborate with other Data Scientists 
 - 📫 You can find and reach me on [![LinkedIn][2.2]][2]
-- 📰 I also write article on medium [Link][3.2]
+- 📰 I also write article on medium [![Link][3.2]]
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: ![7079376_medium logo_medium_icon](https://user-images.githubusercontent.com/119667336/213266489-1c59e6d4-6257-443a-b2ef-c10b1c10f45c.png)
