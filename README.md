@@ -44,4 +44,4 @@ Here are some additionally informations:
 
 ![](https://img.shields.io/badge/DATA_VISUALIZATION-SEABORN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/EDITOR-PYCHARM-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/EDITOR-SPIDER IDE-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
