@@ -5,7 +5,7 @@
 
 My name is Maxim and I´m a huge data enthusiast. Currently I work at BMW Group as a Process planning specialist. 
 
-In my freetime I´m doing my Master in Data Science and a continuing education program at Udacity.com. I also program cool data science projects.
+In my freetime I´m doing my Master in Data Science. I also program cool data science projects.
 
 Feel free to check it out!
 
