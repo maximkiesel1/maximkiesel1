@@ -14,7 +14,7 @@ Here are some additionally informations:
 
 - 🤝 I’m looking to collaborate with other Data Scientists 
 - 📫 You can find and reach me on [![LinkedIn][2.2]][2]
-- 📰 I also write article on [Medium]
+- 📰 I also write article on [medium.com]
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
@@ -22,7 +22,7 @@ Here are some additionally informations:
 <!-- Links to your social media accounts -->
 
 [2]: https://de.linkedin.com/in/maxim-kiesel-904184152
-[Medium]: https://medium.com/@kiesel_maxim
+[medium.com]: https://medium.com/@kiesel_maxim
 
 
 
