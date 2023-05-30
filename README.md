@@ -3,16 +3,16 @@
 
 ## Hello there! 👋
 
-My name is Maxim and I´m a huge data enthusiast. Currently I work at BMW Group as a Process planning specialist. 
+My name is Maxim and I´m a huge data enthusiast. Currently, I work at BMW Group as a Data Analys. 
 
-In my freetime, I´m doing my Master in Data Science. I also program cool data science projects.
+In my freetime, I´m doing my Master in Data Science. I also program cool Machine Learning and Data Analytics projects.
 
 Feel free to check it out!
 
 
 Here are some additionally informations: 
 
-- 🤝 I’m looking to collaborate with other Data Scientists 
+- 🤝 I’m looking to collaborate with other Data Analysts 
 - 📫 You can find and reach me on [![LinkedIn][2.2]][2]
 - 📰 I also write article on [medium.com]
 <!-- Icons -->
