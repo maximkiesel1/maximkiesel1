@@ -2,19 +2,17 @@
 
 
 ## Hello there! 👋
+My name is Maxim and I'm a big data enthusiast. Currently, I am working at BMW Group as a data scientist.
 
-My name is Maxim and I´m a huge data enthusiast. Currently, I work at BMW Group as a Data Scientist. 
+In my spare time I'm doing my master in data science. I also program cool machine learning and data analytics projects.
 
-In my freetime, I´m doing my Master in Data Science. I also program cool Machine Learning and Data Analytics projects.
+Feel free to check them out!
 
-Feel free to check it out!
+Here are some additional information:
 
-
-Here are some additionally informations: 
-
-- 🤝 I’m looking to collaborate with other Data Scientists.
-- 📫 You can find and reach me on [![LinkedIn][2.2]][2]
-- 📰 I also write article on [medium.com]
+- 🤝 I'm looking to collaborate with other data scientists.
+- 📫 You can find and connect with me on [![LinkedIn][2.2]][2]
+- 📰 I also write articles for [medium.com]
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
