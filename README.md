@@ -12,7 +12,7 @@ Feel free to check it out!
 
 Here are some additionally informations: 
 
-- 🤝 I’m looking to collaborate with other Data Analysts 
+- 🤝 I’m looking to collaborate with other Data Scientists.
 - 📫 You can find and reach me on [![LinkedIn][2.2]][2]
 - 📰 I also write article on [medium.com]
 <!-- Icons -->
