@@ -1,12 +1,13 @@
 ![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204130312-37faf66f-3921-441a-bc7c-ccf24c804396.jpg)
 
 
-## Hello there! 👋
-My name is Maxim and I'm a big data enthusiast. Currently, I am working at BMW Group as a data scientist.
+## Hello everyone! 👋
 
-In my spare time I'm doing my master in data science. I also program cool machine learning and data analytics projects.
+My name is Maxim and I'm a big data enthusiast. Currently, I work at BMW Group as a Data Scientist.
 
-Feel free to check them out!
+In my spare time, I'm doing my Master in Data Science. I also program cool projects in the area of machine learning and data analytics.
+
+Feel free to check it out!
 
 Here are some additional information:
 
