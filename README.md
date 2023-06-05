@@ -3,7 +3,7 @@
 
 ## Hello there! 👋
 
-My name is Maxim and I´m a huge data enthusiast. Currently, I work at BMW Group as a Data Analyst. 
+My name is Maxim and I´m a huge data enthusiast. Currently, I work at BMW Group as a Data Scientist. 
 
 In my freetime, I´m doing my Master in Data Science. I also program cool Machine Learning and Data Analytics projects.
 
