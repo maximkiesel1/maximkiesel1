@@ -3,7 +3,7 @@
 
 ## Hello everyone! 👋
 
-My name is Maxim and I'm a big coding enthusiast. Currently, I work at BMW Group as a Software Engineer.
+My name is Maxim and I'm a big coding enthusiast. Currently, I work at BMW Group as a Cloud Engineer.
 
 In my spare time, I'm doing my Master in Data Science. I also program cool projects in the area of machine learning and data analytics.
 
