@@ -1,7 +1,7 @@
 ![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204130312-37faf66f-3921-441a-bc7c-ccf24c804396.jpg)
 
 
-# 🚀 Welcome to Maxim's Code Universe! 🌌
+# 🚀 Welcome to my Code Universe! 🌌
 
 [![Visits Badge](https://badges.pufler.dev/visits/maximkiesel/maximkiesel)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/maximkiesel)](https://badges.pufler.dev)
@@ -9,14 +9,9 @@
 
 ## 👨‍🚀 About Me
 
-Hello, I'm Maxim – a passionate Cloud Explorer and Code Alchemist at BMW Group! 🏎️💨
+Hello, I'm Maxim – a Cloud Developer at BMW Group! 🏎️💨
 
-- 🌩️ Cloud Developer with heart and mind
-- 🤖 Machine Learning Enthusiast
-- 📊 Data Wizard
-- ☁️ AWS Adventurer
-
-## 🛠️ My Tech Arsenal
+## 🛠️ My Tech Stack
 
 ```python
 tech_stack = {
@@ -45,13 +40,13 @@ tech_stack = {
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/maximkiesel/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=project1&theme=radical" />
+      <a href="https://github.com/maximkiesel/batch_processing_IaC_AWS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=batch_processing_IaC_AWS&theme=radical" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/maximkiesel/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=project2&theme=radical" />
+      <a href="https://github.com/maximkieselmodel_engineering_online_payment_service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=model_engineering_online_payment_service&theme=radical" />
       </a>
     </td>
   </tr>
@@ -62,9 +57,7 @@ tech_stack = {
 <a href="https://github.com/maximkiesel/maximkiesel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximkiesel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/maximkiesel/maximkiesel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximkiesel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maxim's GitHub Stats" />
-</a>
+
 
 ## 🤝 Let's Collaborate!
 
@@ -72,13 +65,8 @@ tech_stack = {
 - 📫 Reach me on [![LinkedIn][2.2]][2] or via [Email](mailto:your.email@example.com)
 - 📝 Check out my latest articles on [Medium][medium.com]
 
-## 🎵 Coding Soundtrack
-
-[![Spotify](https://novatorem-git-master.werewolf-65.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
 ---
 
-⭐️ From [Maxim Kiesel](https://github.com/maximkiesel)
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
