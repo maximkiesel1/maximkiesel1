@@ -40,13 +40,13 @@ tech_stack = {
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/maximkiesel/batch_processing_IaC_AWS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=batch_processing_IaC_AWS&theme=radical" />
+      <a href="https://github.com/maximkiesel1/batch_processing_IaC_AWS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel1&repo=batch_processing_IaC_AWS&theme=radical" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/maximkieselmodel_engineering_online_payment_service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel&repo=model_engineering_online_payment_service&theme=radical" />
+      <a href="https://github.com/maximkiesel1/model_engineering_online_payment_service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel1&repo=model_engineering_online_payment_service&theme=radical" />
       </a>
     </td>
   </tr>
