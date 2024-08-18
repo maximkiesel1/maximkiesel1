@@ -6,18 +6,6 @@
 Hello, I'm Maxim – a Cloud Developer at BMW Group! 🏎️💨
 
 ## 🛠️ My Tech Stack
-```python
-tech_stack = {
-    "Languages": ["Python", "SQL", "Bash"],
-    "Cloud": ["AWS", "Terraform", "Infrastructure as Code"],
-    "Containers": ["Docker"],
-    "CI/CD": ["GitHub Actions"],
-    "Big Data": ["Apache Spark", "Apache Arrow", "Parquet", "Apache Iceberg"],
-    "Databases": ["PostgreSQL", "MongoDB", "DynamoDB"],
-    "Tools": ["Git", "Jira", "Confluence"]
-}
-```
-
 | Area | Technologies |
 |------|--------------|
 | ![](https://img.shields.io/badge/☁️-Cloud-informational?style=flat&color=232F3E) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-232F3E?style=flat) |
@@ -28,7 +16,7 @@ tech_stack = {
 | ![](https://img.shields.io/badge/🗃️-Databases-informational?style=flat&color=4479A1) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) |
 | ![](https://img.shields.io/badge/🛠️-Tools-informational?style=flat&color=181717) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
 
-## 🌟 Projects & Contributions
+## 🌟 Projects
 <table>
   <tr>
     <td align="center">
