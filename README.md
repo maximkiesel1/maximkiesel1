@@ -3,7 +3,7 @@
 # 🚀 Welcome to my Code Universe! 🌌
 
 ## 👨‍🚀 About Me
-Hello, I'm Maxim – a Cloud Developer at BMW Group! 🏎️💨
+Hello, I'm Maxim – a Software Engineer at BMW Group! 🏎️💨
 
 ## 🛠️ My Tech Stack
 | Area | Technologies |
