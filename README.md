@@ -1,5 +1,5 @@
 # Software Engineer for fun
-Crafting cool stuff.
+Building stuff.
 
 ## Tech Stack
 | Area        | Technologies |
