@@ -1,6 +1,6 @@
-# Maxim, Software Engineer at BMW Group
+Software Engineer for fun
 
-Crafting code.
+Crafting cool stuff.
 
 ## Tech Stack
 
