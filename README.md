@@ -1,8 +1,4 @@
-# README
-
-![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204130312-37faf66f-3921-441a-bc7c-ccf24c804396.jpg)
-
-## Maxim, Software Engineer at BMW Group
+# Maxim, Software Engineer at BMW Group
 
 Crafting code.
 
@@ -17,32 +13,3 @@ Crafting code.
 | CI/CD      | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 | Databases  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) |
 | Tools      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
-
-## Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/maximkiesel1/Open_Source_Package_PyPi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel1&repo=Open_Source_Package_PyPi&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/maximkiesel1/Stock_Market_Prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maximkiesel1&repo=Stock_Market_Prediction&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## GitHub Stats
-
-<a href="https://github.com/maximkiesel/maximkiesel">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximkiesel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-## Connect
-
-- Open to collaborations.
-- [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://de.linkedin.com/in/maxim-kiesel-904184152)
----
