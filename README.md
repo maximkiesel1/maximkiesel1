@@ -1,7 +1,4 @@
-# Software Engineer for fun
-Building stuff.
-
-## Tech Stack
+# Tech Stack
 | Area        | Technologies |
 |-------------|--------------|
 | Cloud       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
